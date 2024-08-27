@@ -22,5 +22,5 @@ This project is a simple port scanner written in Python. The scanner allows you 
     python port_scanner.py
 
 ## Customization
-Change Port Range: Modify the port_range in the script to scan different ports.
-Timeout Settings: Adjust the socket.setdefaulttimeout(1) to change the connection timeout period.
+1. **Change Port Range**: Modify the port_range in the script to scan different ports.
+2. **Timeout Settings**: Adjust the socket.setdefaulttimeout(1) to change the connection timeout period.
